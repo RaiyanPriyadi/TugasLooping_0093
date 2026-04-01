@@ -8,7 +8,7 @@ int pilihan;
 // Fungsi (Prosedur) untuk menampilkan menu utama
 void tampilkanMenu() {
     cout << "\n======================================\n";
-    cout << "      MENU PENGECEKAN BILANGA\n";
+    cout << "      MENU PENGECEKAN BILANG\n";
     cout << "======================================\n";
     cout << "1. Cek Bilangan Prima\n";
     cout << "2. Cek Bilangan Fibonacci\n";
